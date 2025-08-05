@@ -1,5 +1,5 @@
 <h1 align="center"> <img width="30" src="/images/icon.png" alt="ForzaTel" /> ForzaTel </h1>
-<h3 align="center"> <a href="https://loco81.ir/skills/ForzaTel"> Click here to visit ForzaTel on my site </a> </h3>
+<h3 align="center"> <a href="https://loco81.ir/skills/ForzaTel?lang=en"> Click here to visit ForzaTel on my site </a> </h3>
 <h3 align="center"> <a href="http://cafebazaar.ir/app/?id=com.LoCo.ForzaTel&ref=share"> Click here to visit ForzaTel on Bazzar </a> </h3>
 <h3 align="center"> <a href="#"> Click here to visit ForzaTel on Myket </a> </h3>
 <p align="center"> Real-Time Telemetry Dashboard for FH5 😁 </p>
